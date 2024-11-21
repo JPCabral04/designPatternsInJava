@@ -8,6 +8,6 @@ public class BankSystem {
     }
 
     public void deductAmount(float price){
-        System.out.println("Deducting $" + price + "from bank...");
+        System.out.println("Deducting $" + price + " from bank...");
     }
 }
